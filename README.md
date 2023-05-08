@@ -32,7 +32,7 @@ For this project we are making use of the following software components:
 
 **ARCHITECTURAL DIAGRAM** 
 
-![](Aspose.Words.71c3447c-bc4f-4dc1-aa34-9edf80d7c86c.001.jpeg)
+![](pic001.jpeg)
 
 **COMPONENT INTERACTION** 
 
@@ -48,7 +48,7 @@ We tested the REST Server by running the flask application on a local system to 
 
 To start with, we first created all the pods and Kubernetes resources required for the project implementation and then created and populated a MySQL Database through the REST Server with medicine and pharmacy data. 
 
-![](Aspose.Words.71c3447c-bc4f-4dc1-aa34-9edf80d7c86c.002.jpeg)
+![](pic002.jpeg)
 
 Figure 1: Sample Request Image (Prescription) 
 
